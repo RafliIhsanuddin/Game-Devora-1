@@ -376,11 +376,7 @@ MonoBehaviour:
   rb: {fileID: 963499548}
   moveSpeed: 7
   jumpForce: 7
-  groundCheck: {fileID: 1478370075}
-  checkRadius: 0.1
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 8
+  maxJumps: 2
 --- !u!114 &963499546
 MonoBehaviour:
   m_ObjectHideFlags: 0
